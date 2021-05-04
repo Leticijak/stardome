@@ -4,7 +4,7 @@ import Layout from '../../components/Layout'
 
 export default function FirstProject() {
   return (
-    <Layout>
+    <Layout title='realesate'>
       <h1>First Project</h1>
     </Layout>
   )
