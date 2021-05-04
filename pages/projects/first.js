@@ -1,7 +1,11 @@
+// LOCAL
+
+import Layout from '../../components/Layout'
+
 export default function FirstProject() {
   return (
-    <div>
+    <Layout>
       <h1>First Project</h1>
-    </div>
+    </Layout>
   )
 }
